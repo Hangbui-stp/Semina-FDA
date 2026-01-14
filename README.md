@@ -10,7 +10,7 @@
 	→ đưa về dạng Panel 		
 	Dataset chưa có nhãn (label) cho bài toán ML.		
 			
-4. Các chỉ số và tỷ lệ:
+4. Các chỉ số và tỷ lệ:       
   1	Vòng quay tài sản	Asset Turnover      
 	2	Lợi suất mua lại cổ phiếu	Buyback Yield                    
 	3	CAPEX trên doanh thu	CAPEX to Revenue                  
