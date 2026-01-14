@@ -1,8 +1,8 @@
-1. Mục tiêu bài toán: Dự đoán tình trạng khó khăn tài chính và phá sản của doanh nghiệp bằng mô hình truyền thống và GNN, kết hợp Causual graph		
-2. Dataset:	Bao gồm 45 chỉ số và tỷ lệ tài chính của tất cả các công ty thuộc chỉ số Nasdaq-100 trong trong giai đoạn từ năm 2017 đến 2022, nguồn Kaggle: https://www.kaggle.com/datasets/ifuurh/nasdaq100-fundamental-data                     		
-	Bộ dữ liệu còn có một trường Latest Data, tuy nhiên giai đoạn này dữ liệu rất hạn chế. Tổng cộng, bộ dữ liệu bao gồm 7 kỳ dữ liệu theo năm.		
+1. Mục tiêu bài toán: Dự đoán tình trạng khó khăn tài chính và phá sản của doanh nghiệp bằng mô hình truyền thống và GNN, kết hợp Causual graph.		
+2. Dataset:	Bao gồm 45 chỉ số và tỷ lệ tài chính của tất cả các công ty thuộc chỉ số Nasdaq-100 trong trong giai đoạn từ năm 2017 đến 2022, nguồn Kaggle: https://www.kaggle.com/datasets/ifuurh/nasdaq100-fundamental-data.                     		
+	Bộ dữ liệu còn có một trường Latest Data, tuy nhiên giai đoạn này dữ liệu rất hạn chế.              		
 			
-3. Các vấn đề của dataset gốc:
+3. Các vấn đề của dataset gốc:           
     Có nhiều thuộc tính dữ liệu không đầy đủ tất cả các năm.	 
 	→  loại bỏ các thuộc tính không được điền dữ liệu đầy đủ qua các kỳ năm.	 
 	Có nhiều giá trị bị thiếu (NaN) hoặc vô hạn (Inf).		 
@@ -56,4 +56,4 @@
 	42	Tài sản hoạt động ròng đã chuẩn hóa - Scaled Net Operating Assets                     
 	43	Tăng trưởng EBITDA theo năm - YoY EBITDA Growth                     
 	44	Tăng trưởng EPS theo năm - YoY EPS Growth                     
-	45	Tăng trưởng doanh thu theo năm - YoY Revenue Growth                            
+	45	Tăng trưởng doanh thu theo năm - YoY Revenue Growth.                            
